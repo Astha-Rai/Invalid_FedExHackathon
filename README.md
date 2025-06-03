@@ -139,3 +139,4 @@ We plan on implementing this on a wider scale by Simulating Real-Time change in 
 ## Demo Video
 
 [![Demo Video](http://img.youtube.com/vi/sj1lNFV2ta0/0.jpg)](http://www.youtube.com/watch?v=sj1lNFV2ta0)
+# Update: Adjusted structure
